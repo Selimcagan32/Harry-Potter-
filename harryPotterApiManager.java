@@ -6,7 +6,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
-public class proje2 {
+public class harryPotterApiManager {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
